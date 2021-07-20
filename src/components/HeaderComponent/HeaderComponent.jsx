@@ -29,7 +29,7 @@ function HeaderComponent() {
   };
   const navlinks = [
     { label: "Profile", Id: "Profile", icon:<LinkedInIcon onClick={()=>{window.open("https://www.linkedin.com/in/rajachatterjee84/")}} onmouseover="" style={{cursor: "pointer"}}/>},
-    { label: "Github", Id: "Github", icon:<GitHubIcon onClick={()=>{window.open("https://github.com/InquisitiveAboutReact")}} onmouseover="" style={{cursor: "pointer"}}/> },
+    { label: "CodeRepo", Id: "Github", icon:<GitHubIcon onClick={()=>{window.open("https://github.com/InquisitiveAboutReact")}} onmouseover="" style={{cursor: "pointer"}}/> },
     { label: "Contact", Id: "Contact", icon:<ContactMailIcon aria-describedby={contactId} onClick={handleContact}/>},
   ];
 
