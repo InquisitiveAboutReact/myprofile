@@ -104,7 +104,7 @@ function AboutMe() {
       </CardActionArea>
       <CardActions>
         <Button size="small" color="primary">
-         <a href="https://github.com/InquisitiveAboutReact/SSR-CSR-Express-Webpack-React" target="_blank"><GitHubIcon /> </a>
+         <a href="https://github.com/InquisitiveAboutReact/SSR-CSR-Express-Webpack-React" target="_blank" rel="noopener noreferrer"><GitHubIcon /> </a>
         </Button>
       </CardActions>
     </Card>
