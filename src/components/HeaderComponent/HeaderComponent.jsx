@@ -1,6 +1,6 @@
 import React from "react";
 import { useStyles } from "./HeaderStyles";
-import { Box } from "@material-ui/core";
+import { Box, Grid } from "@material-ui/core";
 import { Typography } from "@material-ui/core";
 import Navbar from "./Navbar";
 import InfoSharpIcon from '@material-ui/icons/InfoSharp';
@@ -38,10 +38,12 @@ function HeaderComponent() {
       <Navbar navlinks={navlinks} handleDrawerToogle={handleDrawerToogle}/>
        <DrawerComponent initialState={initialState} navlinks={navlinks} handleDrawerToogle={handleDrawerToogle}/>
       <Box className={classes.HeaderContainer}>
+      <Grid item sm={6} lg={12} xs={10} md={10}>
         <Typography variant="h4" component="h5" className={classes.HeaderTitle}>
           Raja Chatterjee
          
         </Typography>
+        
         <Typography variant="h5" component="h6" className={classes.HeaderDesc}>
           13+ years experience in IT Industry having Deep knowledge and
           experience in Project / Program & Delivery management , <br /> leading cross
@@ -51,6 +53,8 @@ function HeaderComponent() {
           I love travelling, passionate about photography, a motorhead, sportslover and a food lover. <br /> 
           Very much fond of music, love to watch movies and web series in my free time.
         </Typography>
+        </Grid>
+        
         <Box className={classes.decorator}>
           <Typography className={classes.decoratorText} variant='span' component="h4">
             <InfoSharpIcon /> Scroll down to more about my work <ArrowDownwardSharpIcon />
