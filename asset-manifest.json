@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/myprofile/static/css/main.a617e044.chunk.css",
-    "main.js": "/myprofile/static/js/main.a3832300.chunk.js",
-    "main.js.map": "/myprofile/static/js/main.a3832300.chunk.js.map",
-    "runtime-main.js": "/myprofile/static/js/runtime-main.3e1e8e00.js",
-    "runtime-main.js.map": "/myprofile/static/js/runtime-main.3e1e8e00.js.map",
-    "static/js/2.7a4fe6d9.chunk.js": "/myprofile/static/js/2.7a4fe6d9.chunk.js",
-    "static/js/2.7a4fe6d9.chunk.js.map": "/myprofile/static/js/2.7a4fe6d9.chunk.js.map",
-    "index.html": "/myprofile/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/myprofile/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.7a4fe6d9.chunk.js.LICENSE.txt": "/myprofile/static/js/2.7a4fe6d9.chunk.js.LICENSE.txt",
-    "static/media/cover.60c505a8.JPG": "/myprofile/static/media/cover.60c505a8.JPG",
-    "static/media/profile.d74a8e8b.jpg": "/myprofile/static/media/profile.d74a8e8b.jpg",
-    "static/media/techcover.b5075e78.jpg": "/myprofile/static/media/techcover.b5075e78.jpg"
+    "main.css": "/RajaChatterjee/static/css/main.a617e044.chunk.css",
+    "main.js": "/RajaChatterjee/static/js/main.a3832300.chunk.js",
+    "main.js.map": "/RajaChatterjee/static/js/main.a3832300.chunk.js.map",
+    "runtime-main.js": "/RajaChatterjee/static/js/runtime-main.d9f78f97.js",
+    "runtime-main.js.map": "/RajaChatterjee/static/js/runtime-main.d9f78f97.js.map",
+    "static/js/2.7a4fe6d9.chunk.js": "/RajaChatterjee/static/js/2.7a4fe6d9.chunk.js",
+    "static/js/2.7a4fe6d9.chunk.js.map": "/RajaChatterjee/static/js/2.7a4fe6d9.chunk.js.map",
+    "index.html": "/RajaChatterjee/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/RajaChatterjee/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7a4fe6d9.chunk.js.LICENSE.txt": "/RajaChatterjee/static/js/2.7a4fe6d9.chunk.js.LICENSE.txt",
+    "static/media/cover.60c505a8.JPG": "/RajaChatterjee/static/media/cover.60c505a8.JPG",
+    "static/media/profile.d74a8e8b.jpg": "/RajaChatterjee/static/media/profile.d74a8e8b.jpg",
+    "static/media/techcover.b5075e78.jpg": "/RajaChatterjee/static/media/techcover.b5075e78.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e1e8e00.js",
+    "static/js/runtime-main.d9f78f97.js",
     "static/js/2.7a4fe6d9.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.a3832300.chunk.js"
