@@ -80,7 +80,7 @@ function AboutMe() {
       </CardActionArea>
       <CardActions>
         <Button size="small" color="primary">
-         <a href="https://github.com/InquisitiveAboutReact/SSR-NextJS-Heroku" target="_blank"><GitHubIcon /> </a>
+         <a href="https://github.com/InquisitiveAboutReact/SSR-NextJS-Heroku" target="_blank" rel="noopener noreferrer"><GitHubIcon /> </a>
         </Button>
       </CardActions>
     </Card>
