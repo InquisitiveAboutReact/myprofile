@@ -1,9 +1,8 @@
-import { Box , Container, Grid, Hidden, Typography} from '@material-ui/core'
+import { Box , Container, Grid, Typography} from '@material-ui/core'
 import React from 'react'
 import { useStyles } from './BodyStyle';
 import Image from "../../images/techcover.jpg"
 import { RenderSectionTitle } from '../common/CommonComponent';
-import MoreHorizRoundedIcon from '@material-ui/icons/MoreHorizRounded';
 import Card from '@material-ui/core/Card';
 import CardActionArea from '@material-ui/core/CardActionArea';
 import CardActions from '@material-ui/core/CardActions';

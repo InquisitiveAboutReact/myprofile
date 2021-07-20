@@ -1,6 +1,6 @@
 import React from "react";
 import { useStyles } from "./HeaderStyles";
-import { Box, Drawer } from "@material-ui/core";
+import { Box } from "@material-ui/core";
 import { Typography } from "@material-ui/core";
 import Navbar from "./Navbar";
 import InfoSharpIcon from '@material-ui/icons/InfoSharp';

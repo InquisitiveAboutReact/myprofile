@@ -7,10 +7,7 @@ import { Box, Hidden } from "@material-ui/core";
 import { useStyles } from "./HeaderStyles";
 import { IconButton } from "@material-ui/core";
 import MenuBookIcon from '@material-ui/icons/MenuBook';
-import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import GitHubIcon from '@material-ui/icons/GitHub';
 import Image from '../../images/profile.jpg'
-import ContactMailIcon from '@material-ui/icons/ContactMail';
 import {Link} from 'react-scroll';
 
 function Navbar({navlinks , handleDrawerToogle}) {

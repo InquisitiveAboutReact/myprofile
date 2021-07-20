@@ -3,7 +3,7 @@ import { Box , Grid, Typography} from "@material-ui/core";
 import InfoSharpIcon from '@material-ui/icons/InfoSharp';
 import ArrowDownwardSharpIcon from '@material-ui/icons/ArrowDownwardSharp';
 import { useStyles as BodyStyle} from '../BodyComponent/BodyStyle'
-import { DescriptionOutlined } from "@material-ui/icons";
+
 
 export const Decorator = ({label, withIcon,Icon, styles})=> {
     const classes = useStyles();
