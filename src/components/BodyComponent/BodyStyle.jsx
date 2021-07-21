@@ -22,9 +22,10 @@ export const useStyles = makeStyles((theme)=>({
 
     },
     sectionHeading:{
-        color: Theme.colors.base2,
+        color: "#F8C35A",
         margin:theme.spacing(2,0),
-        fontSize:'24px'
+        fontSize:'20px',
+        fontStyle:'sans-serif'
     },
     sectionDesc:{
       fontWeight:'bolder',
@@ -43,14 +44,20 @@ export const useStyles = makeStyles((theme)=>({
         fontStyle:'Italic'
     },
     techstack:{
-        fontFamily:'cursive',
-        color: Theme.colors.primary,
-        fontWeight:'bolder',
+        fontFamily:'MS ui-sans-serif',
+        color: '#F8C35A',
+        //fontWeight:'bolder',
+        listStyleType:'square',
+        padding:'10px',
+        fontSize:'18px',
     },
     certification:{
-        fontFamily:'cursive',
-        color: Theme.colors.primary,
-        fontWeight:'bolder',
+        fontFamily:'Tahoma',
+        color: '#F8C35A',
+        //fontWeight:'bolder',
+        listStyleType:'decimal',
+        fontSize:'18px',
+        padding:'10px'
     },
     certificationHeading:{
         color: Theme.colors.base2,
@@ -72,8 +79,19 @@ export const useStyles = makeStyles((theme)=>({
         padding:'10px'
     },
     contactdesc:{
-        fontFamily:'cursive',
+        fontFamily:'Georgia',
         fontWeight:'bolder',
-        fontStyle:'Italic'
-    }
+    },
+    mediaContent:{
+      fontWeight:'bolder',
+      fontSize:'20px'
+    },
+    media:{
+      backgroundColor:'#ecc3c3'
+    },
+    root:{
+        backgroundColor:'#ecc3c3',
+        borderRadius:'14px'
+      },
+    
 }))

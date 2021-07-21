@@ -9,7 +9,7 @@ function Contact() {
     return (
         <Box id="Contact" className={classes.contact}>
          <Typography variant="h6" component="p" className={classes.contactdesc}>
-             Please Contact Me through Linkedin or Github by clicking below links
+             Please Contact Me through Linkedin or Github by clicking below link/s
          </Typography>
          <br />
          <LinkedInIcon onClick={()=>{window.open("https://www.linkedin.com/in/rajachatterjee84/")}} onmouseover="" style={{cursor: "pointer", paddingRight:'10px'}}/> 

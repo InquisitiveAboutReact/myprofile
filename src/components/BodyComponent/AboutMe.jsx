@@ -31,16 +31,23 @@ function AboutMe() {
         <hr className={classes.horizontalStyle}/>
               {RenderSectionTitle(
                   {
-                heading:'A person who is always ready to work on open source technologies',
-                description:'Technology Stacks'
+                heading:'A person who is always ready to work on any open source technologies',
+                description:'Technolog Stacks'
                 })}
           <Typography className={classes.techstack}>
-              <li>React, Redux, Zustand</li>
-              <li>Node,Express,Next</li>
-              <li>Material UI, React Styled Component, Bootstrap</li>
-              <li>Server Side Rendering </li>
-              <li>CI/CD</li>
-              <li>GIT, Heroku</li>
+              
+              <li>UI programming and Framework - HTML5, Bootstrap, CSS3, SCSS</li>
+              <li>Java Script Library and Framework - React JS, Redux, Justand, Angular 2/5, VUE JS</li>
+              <li>Back End & SSR - Node, Express JS, Next JS </li>
+              <li>Task runner build tools - NPM, Yarn, Webpack 5.x </li>
+              <li>CI/CD  – VSTS, GIT, GIT Action, Source Tree, BitBucket </li> 
+              <li>Deployment - UCD , Heroku, Netlify </li>
+              <li>TDD - Jest / Karma / Jasmine / Mocha / Enzyme </li>
+              <li>Cloud – Azure, Bluemix </li>
+              <li>Agile and KANBAN Tool – JIRA, MURAL </li>
+              <li>NoSQL DB – Mongo </li>
+              <li>Spring Boot & Eureka </li>
+              <li>Products - Guidewire, ClaimCenter</li>
           </Typography>
           <br />
           <Typography variant="h5" component="p" className={classes.certificationHeading}>Certifications</Typography>
@@ -67,11 +74,11 @@ function AboutMe() {
           image={Image}
           title="Server Side Rendering"
         />
-        <CardContent>
+        <CardContent className={classes.mediaContent}>
           <Typography gutterBottom variant="h5" component="h2">
             Server Side Rendering
           </Typography>
-          <Typography variant="body2" color="textPrimary" component="p">
+          <Typography variant="body2" color="textPrimary" component="p" style={{fontWeight:'bolder',fontFamily:'MS ui-sans-serif'}}>
             This app articulates how can we enable SSR using Express JS. SSR is faster to load than a CSR. <br /> 
             You can test the application from Browser network tab after deploy the application in Express JS as well as 
             in React web server (CSR)
@@ -96,7 +103,7 @@ function AboutMe() {
           <Typography gutterBottom variant="h5" component="h2">
             React+Webpack+CSR+SSR
           </Typography>
-          <Typography variant="body2" color="textPrimary" component="p">
+          <Typography variant="body2" color="textPrimary" component="p" style={{fontWeight:'bolder',fontFamily:'MS ui-sans-serif'}}>
           End to End Server Side and Client Side rendering configuration of a simple react app using Express framework and Webpack 5 from scratch. <br/>
           The app can be simultaneously run in both client side and server side.
           </Typography>
