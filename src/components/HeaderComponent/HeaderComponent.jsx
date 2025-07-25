@@ -45,7 +45,7 @@ function HeaderComponent() {
         </Typography>
         
         <Typography variant="h5" component="h6" className={classes.HeaderDesc}>
-          13+ years experience in IT Industry having Deep knowledge and
+          17+ years experience in IT Industry having Deep knowledge and
           experience in Project / Program & Delivery management , <br /> leading cross
           cultural teams globally, efficient in working closely with
           international clients, make sure of smooth deliveries of projects and
