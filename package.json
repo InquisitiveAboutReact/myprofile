@@ -13,12 +13,7 @@
     "react": "^17.0.2",
     "react-animate-on-scroll": "^2.1.5",
     "react-dom": "^17.0.2",
-<<<<<<< HEAD
     "react-scripts": "^5.0.1",
-=======
-    "react-script": "^2.0.5",
-    "react-scripts": "4.0.3",
->>>>>>> fded3b154442aea5ed192f17eb17411a560e9e0a
     "react-scroll": "^1.8.2",
     "react-typed": "^1.2.0",
     "web-vitals": "^1.0.1"
