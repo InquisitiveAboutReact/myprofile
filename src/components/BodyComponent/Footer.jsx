@@ -10,7 +10,7 @@ function Footer() {
        <Box className={classes.footer} id="Footer">
         <Typography variant="body1" component="h4" align="center" color="inherit">
           <CodeIcon /> Developed & Designed by Raja Chatterjee <br />
-            All rights reserved, 2021 ©
+            All rights reserved, 2025 ©
         </Typography>
        </Box>
     )

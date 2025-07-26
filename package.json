@@ -1,10 +1,6 @@
 {
   "name": "myprofileapp",
-<<<<<<< HEAD
   "homepage": "https://InquisitiveAboutReact.github.io/myprofile",
-=======
-  "homepage": " https://inquisitiveaboutreact.github.io/myprofile2025Updated",
->>>>>>> 1137bd3445248d8e811413201c87663dc9e09ace
   "version": "0.1.0",
   "private": true,
   "dependencies": {
