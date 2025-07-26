@@ -35,7 +35,8 @@ function AboutMe() {
                 description:'Technolog Stacks'
                 })}
           <Typography className={classes.techstack}>
-              
+              <li>End to End Service Delivery Management </li>
+              <li><strong>Currently learning Salesforce (Admin, Service Cloud)</strong></li>
               <li>UI programming and Framework - HTML5, Bootstrap, CSS3, SCSS</li>
               <li>Java Script Library and Framework - React JS, Redux, Justand, Angular 2/5, VUE JS</li>
               <li>Back End & SSR - Node, Express JS, Next JS </li>
