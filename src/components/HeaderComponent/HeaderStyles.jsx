@@ -80,5 +80,12 @@ export const useStyles = makeStyles(()=>({
       backgroundColor: Theme.colors.base1,
       color: Theme.colors.base2
     },
+     AboutMeMore:{
+        color: '#F8C35A',
+        fontFamily:"Georgia",
+        fontStyle:'Italic',
+        fontWeight:'bolder',
+        fontSize:'20px'
+     }
 }))
 

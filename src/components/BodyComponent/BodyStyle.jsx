@@ -59,6 +59,7 @@ export const useStyles = makeStyles((theme)=>({
         fontSize:'18px',
         padding:'10px'
     },
+   
     certificationHeading:{
         color: Theme.colors.base2,
         fontFamily:"Georgia"

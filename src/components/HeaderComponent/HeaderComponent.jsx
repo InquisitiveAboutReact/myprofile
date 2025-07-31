@@ -40,8 +40,11 @@ function HeaderComponent() {
       <Box className={classes.HeaderContainer}>
       <Grid item sm={6} lg={12} xs={10} md={10}>
         <Typography variant="h4" component="h5" className={classes.HeaderTitle}>
-          Raja Chatterjee
-         
+          Raja Chatterjee <br />
+          <Typography variant="h4" component="p" className={classes.AboutMeMore}>
+            Delivery Manager (UI Full Stack, Salesforce(Admin,Service Cloud), Container Services, CI/CD )
+          </Typography>
+          <br />
         </Typography>
         
         <Typography variant="h5" component="h6" className={classes.HeaderDesc}>
