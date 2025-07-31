@@ -50,8 +50,12 @@ function HeaderComponent() {
           cultural teams globally, efficient in working closely with
           international clients, make sure of smooth deliveries of projects and
           experience leading both development & support projects.. <br /> 
-          I love travelling, passionate about photography, a motorhead, sportslover and a food lover. <br /> 
-          Very much fond of music, love to watch movies and web series in my free time.
+          As a DM, my responsibilities include managing the project from scratch,
+          working on new business opportunities / RFPs, Open demands fulfilment,Program and Stakeholder management,
+          managing the team, mentoring and coaching the team members, ensuring
+          the team is working in a collaborative environment, handling escalations, working on the financials ( Billings , PO etc.)
+          <br /><br />
+         Apart from my work, I'd like to spend my free time reading books, listening to music and go through different technical articles. I am an driving enthusiats and love photography.
         </Typography>
         </Grid>
         
