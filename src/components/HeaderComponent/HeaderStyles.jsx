@@ -82,10 +82,25 @@ export const useStyles = makeStyles(()=>({
     },
      AboutMeMore:{
         color: '#F8C35A',
-        fontFamily:"Georgia",
+        fontFamily:"Calibri",
         fontStyle:'Italic',
         fontWeight:'bolder',
         fontSize:'20px'
+     },
+      Websiteslist:{
+        color: '#e88605ff',
+        fontFamily:"Calibri",
+        fontStyle:'Italic',
+        fontWeight:'bolder',
+        fontSize:'20px'
+     },
+     Websiteslistdef:{
+        color: '#f5be09ff',
+        fontFamily:"Calibri",
+        fontStyle:'Italic',
+        fontWeight:'bolder',
+        fontSize:'14px',
+        alignContent:'right',
      }
 }))
 

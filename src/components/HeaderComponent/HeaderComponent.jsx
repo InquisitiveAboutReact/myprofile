@@ -45,6 +45,16 @@ function HeaderComponent() {
             Delivery Manager (UI Full Stack, Salesforce(Admin,Service Cloud), Container Services, CI/CD )
           </Typography>
           <br />
+          <Typography variant="h4" component="p" className={classes.Websiteslist}>
+          <strong>
+            WEBSITE:	
+              <ul>
+                <li>Salesforce: - <a className={classes.Websiteslistdef} color="red" href="https://www.salesforce.com/trailblazer/rajachatterjee2024">https://www.salesforce.com/trailblazer/rajachatterjee2024</a></li>
+                <li>Dockerhub:- <a className={classes.Websiteslistdef} href="https://hub.docker.com/repository/docker/rajach2023/">https://hub.docker.com/repository/docker/rajach2023/</a></li>
+              </ul>
+          </strong>
+          </Typography>
+         
         </Typography>
         
         <Typography variant="h5" component="h6" className={classes.HeaderDesc}>
