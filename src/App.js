@@ -4,6 +4,7 @@ import Contact from './components/BodyComponent/Contact';
 import Footer from './components/BodyComponent/Footer';
 import HeaderComponent from './components/HeaderComponent/HeaderComponent';
 
+
 function App() {
   return (
     <div>
@@ -11,6 +12,7 @@ function App() {
     <AboutMe />
     <Contact />
     <Footer />
+
     </div>
    
   );

@@ -74,6 +74,12 @@ export const useStyles = makeStyles((theme)=>({
         position:"relative",
 
     },
+    profilefooter:{
+        backgroundColor: Theme.colors.primary,
+        color: '#3704b7ff',
+        position:"relative",
+
+    },
     contact:{
         backgroundColor: '#013844',
         color: Theme.colors.base2,
