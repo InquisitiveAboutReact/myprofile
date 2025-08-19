@@ -42,7 +42,7 @@ function HeaderComponent() {
         <Typography variant="h4" component="h5" className={classes.HeaderTitle}>
           Raja Chatterjee <br />
           <Typography variant="h4" component="p" className={classes.AboutMeMore}>
-            Delivery Manager (UI Full Stack, Salesforce(Admin,Service Cloud), Container Services, CI/CD )
+            Technical Delivery Manager (UI Full Stack, Salesforce,Concur, Guidewire, Container Services, CI/CD )
           </Typography>
           <br />
           <Typography variant="h4" component="p" className={classes.Websiteslist}>
