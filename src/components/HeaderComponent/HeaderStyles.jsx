@@ -1,5 +1,5 @@
 import {makeStyles} from '@material-ui/core';
-import Image from '../../images/cover.JPG'
+import Image from '../../images/cover1.JPG'
 import { Theme } from '../Theme';
 
 export const useStyles = makeStyles(()=>({
