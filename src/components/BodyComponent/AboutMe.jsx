@@ -83,6 +83,9 @@ function AboutMe() {
             This app articulates how can we enable SSR using Express JS. SSR is faster to load than a CSR. <br /> 
             You can test the application from Browser network tab after deploy the application in Express JS as well as 
             in React web server (CSR)
+            My current interests areas / studies / research is on Claude AI, React + Blockchain Integration, Web3 , dAPP, GenAI.
+Recently, had hands-on experience integrating chatbot (free) in my personal website (currently not deployed in the production as it’s under training & testing phase). Also, working on integrating Ollama for real time AI enabled responses.
+
           </Typography>
         </CardContent>
       </CardActionArea>
