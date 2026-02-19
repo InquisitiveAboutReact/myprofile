@@ -36,7 +36,8 @@ function AboutMe() {
                 })}
           <Typography className={classes.techstack}>
               <li>End to End Service Delivery Management </li>
-              <li><strong>Currently learning Salesforce(Admin, Service Cloud, Apex, Triggers, LWC )</strong></li>
+              <li>Currently learning -  Oracle Cloud HCM </li>
+              <li>Salesforce(Admin, Service Cloud, Apex, Triggers, LWC )</li>
               <li>UI programming and Framework - HTML5, Bootstrap, CSS3, SCSS</li>
               <li>Java Script Library and Framework - React JS, Redux, Justand, Angular 2/5, VUE JS</li>
               <li>Back End & SSR - Node, Express JS, Next JS </li>
@@ -56,6 +57,10 @@ function AboutMe() {
               <li>AZ-300 – Azure Architect Technologies(2020)</li>
               <li>ITIL® Foundation Certificate in IT Service Management (2015)</li>
               <li>LOT-959 - IBM WebSphere Portal 6.1 Application Developments Certified(2011)</li>
+              <li>Oracle Fusion Cloud Applications HCM Process Essentials Certified (Dec 2025)</li>
+              <li>Oracle Global Human Resource Cloud 2025 Certified Implementation Professional (JAN 2026)</li>
+
+
           </Typography>
           
           </Grid>
