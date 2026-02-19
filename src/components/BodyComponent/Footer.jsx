@@ -11,7 +11,7 @@ function Footer() {
        <Box className={classes.footer} id="Footer">
         <Typography variant="body1" component="h4" align="center" color="inherit">
           ✓ Developed, Designed & Maintained by Raja Chatterjee <br />
-            All rights reserved, 2025 ©
+            All rights reserved, 2026 ©
             <br /><br />
           <span className={classes.profilefooter}>
             <ProfileVisit />
