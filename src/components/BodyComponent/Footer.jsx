@@ -1,7 +1,6 @@
 import React from 'react';
 import { Box, Typography } from '@material-ui/core'
 import {useStyles} from './BodyStyle';
-import CodeIcon from '@material-ui/icons/Code';
 import ProfileVisit from './ProfileVisit';
 
 function Footer() {
